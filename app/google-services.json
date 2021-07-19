@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920172687840",
+    "firebase_url": "https://alumini-8bcc0.firebaseio.com",
+    "project_id": "alumini-8bcc0",
+    "storage_bucket": "alumini-8bcc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920172687840:android:f946268beefe40bab5fb85",
+        "android_client_info": {
+          "package_name": "com.example.asus.alumini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920172687840-qifais0d3aipll8to817h60bgk1g30tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAd_Jt_vGOKoF_cq1EPETYKEGk_OzvBRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920172687840-qifais0d3aipll8to817h60bgk1g30tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
